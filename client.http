@@ -38,9 +38,9 @@ Content-Type: application/json
 
 # POST Question
 # @name create Question
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/0d4857f3-48a4-4993-9d61-9fa6eb468e63/questions
 Content-Type: application/json
 
 {
-  "question": "What is your question?"
+  "question": "Oque é Vue"
 }

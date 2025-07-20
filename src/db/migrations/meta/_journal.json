@@ -15,6 +15,13 @@
       "when": 1752978093267,
       "tag": "0001_volatile_black_widow",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753028375388,
+      "tag": "0002_lean_reaper",
+      "breakpoints": true
     }
   ]
 }
